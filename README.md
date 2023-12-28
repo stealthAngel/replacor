@@ -20,7 +20,7 @@ To display help information, use:
 ```
 scriptname --help
 ```
-
+I might add in the future that it will also replace the strings within files, but right now visual studio code and visual studio can do this just fine with ctrl + shift + f
 ## Adding Script to Environment Variables
 To run this script from any directory in the command prompt, add it to the Windows environment variables. Follow these steps:
 
